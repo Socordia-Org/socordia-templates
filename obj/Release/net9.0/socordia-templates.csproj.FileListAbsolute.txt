@@ -1,0 +1,12 @@
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\bin\Release\net9.0\socordia-templates.deps.json
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\bin\Release\net9.0\socordia-templates.dll
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\bin\Release\net9.0\socordia-templates.pdb
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.AssemblyInfoInputs.cache
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.AssemblyInfo.cs
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.csproj.CoreCompileInputs.cache
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.sourcelink.json
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.dll
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\refint\socordia-templates.dll
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\socordia-templates.pdb
+C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\obj\Release\net9.0\ref\socordia-templates.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQcI/zkioi8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\RiderProjects\\Socordia-Org\\socordia-templates\\socordia-templates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.templateengine.tasks\\7.0.120\\microsoft.templateengine.tasks.7.0.120.nupkg.sha512"
+  ],
+  "logs": []
+}

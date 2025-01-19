@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "furesoft",
+  "classifications": ["Common", "Console"],
+  "name": "Console Application",
+  "description": "A project for creating a command-line application that can run on .NET Core on Windows, Linux and macOS",
+  "groupIdentity": "Microsoft.Common.Console",
+  "identity": "Socordia.Templates.ConsoleApp",
+  "shortName": "console",
+  "sourceName": "Socordia",
+  "defaultName": "ConsoleApp1",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "Socordia",
+    "type": "project"
+  }
+}

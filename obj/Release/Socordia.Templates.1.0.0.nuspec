@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Socordia.Templates</id>
+    <version>1.0.0</version>
+    <title>Socordia.Templates</title>
+    <authors>furesoft</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Socordia-Org/socordia-templates</projectUrl>
+    <description>TODO: fill the package description here</description>
+    <tags>socordia</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" commit="efd6dc3481eb6026ab02a4fb9c3dfd079e6e0728" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\content\console\.template.config\template.json" target="content\content\console\.template.config\template.json" />
+    <file src="C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\content\console\ConsoleApp1.scproj" target="content\content\console\ConsoleApp1.scproj" />
+    <file src="C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\content\console\program.sc" target="content\content\console\program.sc" />
+    <file src="C:\Users\chris\RiderProjects\Socordia-Org\socordia-templates\README.md" target="README.md" />
+  </files>
+</package>
